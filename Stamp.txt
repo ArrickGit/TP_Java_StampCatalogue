@@ -1,0 +1,14 @@
+Disfatt Bidge;2020;Jordan;3;6.0;105x65;Definitive;Designer;Hercules Balls;Secret Agent Randy Beans;Detective Bluto Mindpretzel;
+Pesta Gawai;2019;Malaysia;2;12.0;105x65;Commemorative;Mia Khalifa;Coated; Offset lithography;Gghagg gagh gaggh ghaaagh;
+King George VI;1952;Singapore;10;17.0;105x65;Definitive;Robert Indiana;Coated;Typography;A king is decided on the battlefield;
+Petra;2020;Españope;5;14.0;105x65;Commemorative;James Rizzi;Coated; Offset lithography;War never changes;
+Parachuting;2018;Jordan;13;12.0;150x80;Commemorative;Johnny Sins;Coated; Offset lithography;When you go before god, you can only confess one person's sins;
+Butterfly Tail;2020;Singapore;18;13.0;105x65;Definitive;Robert Indiana;Coated;Offset lithography;Xua Hua Piao Piao, Bei Jing 1 0 1;
+Ranchu;2020;Singapore;17;15.0;105x65;Definitive;Robert Indiana;Coated;Offset lithography;With Imprint 2020B. Issued in booklet panes of ten. Face value SG$0.30 on day of issue;
+Capella Hotel;2019;Singapore;11;14.0;60x30;Commemorative;Robert Indiana;Coated;Offset lithography and Recess;You know what's hard Timmy? The war *Vietnam Flashbacks*;
+Sultan and Yang;2016;Brunei;16;13.25;80x25;Commemorative;Bertram Park;Coated;Offset lithography;I’m not gonna run away, I never go back on my word! That’s my nindo: my ninja way;
+Juan O. Goñi;2017;Chile;19;13.5;48x30;Commemorative;David Gentleman;Coated;Offset lithography;Manly combining! Kamina;
+Jovan;1;Malaysia;1;1.0;1;Commemorative;1;1;1;1;
+Sultan and Yang;2016;null;16;13.25;80x25;null;Bertram Park;Coated;Offset lithography;I’m not gonna run away, I never go back on my word! That’s my nindo: my ninja way;
+Butterfly Tail;2020;null;18;13.0;105x65;null;Robert Indiana;Coated;Offset lithography;Xua Hua Piao Piao, Bei Jing 1 0 1;
+Weird;2011;Singapore;1;1.0;1;Commemorative;1;1;1;1;
